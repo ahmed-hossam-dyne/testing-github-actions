@@ -1,2 +1,2 @@
 # testing-github-actions
-a demo ionic application to test github actions.
+A demo ionic application to test github actions.
